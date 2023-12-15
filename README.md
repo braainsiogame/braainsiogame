@@ -1,1 +1,1 @@
- <img src="https://imgb.ifunny.co/images/0e46613172e5408273c09f35e84162c38fb9bb55eaeb91e4843701f64599032a_1.jpg" width="700px" height="328px" alt="HideSeekSpin" />
+ <img src="https://media.discordapp.net/attachments/777553502431084565/1185113300267184191/image.png?ex=658e6dc5&is=657bf8c5&hm=d51c8ff08508ceaa9cb18f7da854cd6c4c48d09c4d4cbb694f512ddfeb2ecb36&=&format=webp&quality=lossless"/>
