@@ -1,1 +1,1 @@
- <img src="https://media.discordapp.net/attachments/777553502431084565/1185113300267184191/image.png?ex=658e6dc5&is=657bf8c5&hm=d51c8ff08508ceaa9cb18f7da854cd6c4c48d09c4d4cbb694f512ddfeb2ecb36&=&format=webp&quality=lossless"/>
+womp womp
